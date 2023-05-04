@@ -26,7 +26,7 @@ I am a PhD Candidate at IUSS
 ### Recent publications
 
 <!-- PUBLICATIONS:START -->
-- [A Practical Methodology to Estimate Site Fundamental Periods Based on the KiK‐net Borehole Velocity Profiles and Its Application to Istanbul](https://journals.sagepub.com/doi/10.1177/87552930211023523](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/112/5/2606/616246/A-Practical-Methodology-to-Estimate-Site?redirectedFrom=fulltext)
+- [A Practical Methodology to Estimate Site Fundamental Periods Based on the KiK‐net Borehole Velocity Profiles and Its Application to Istanbul](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/112/5/2606/616246/A-Practical-Methodology-to-Estimate-Site?redirectedFrom=fulltext)
 
 
 <!-- PUBLICATIONS:END -->
