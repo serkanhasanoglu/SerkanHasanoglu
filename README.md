@@ -6,7 +6,7 @@
 
 <!-- Profile View Count and GitStats -->
 
-### Hi, I am Serkan 👋
+### Hi, I am Serkan 🧑‍💻
 
 I am a PhD Candidate at IUSS
 
