@@ -1,11 +1,10 @@
 <!-- Your badges -->
 
 ![](https://komarev.com/ghpvc/?username=davitshahnazaryan3&style=flat)
-[![Linkedin](https://img.shields.io/badge/-davit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-hasanoğlu-810a12b9/)
-[![Gmail](https://img.shields.io/badge/-davit-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davit.shahnazaryan@iusspavia.it)
-[![Github](https://img.shields.io/badge/-davit-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/davitshahnazaryan3)
-[![Orcid](https://img.shields.io/badge/-davit-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-0529-5763)
-[![Researchgate](https://img.shields.io/badge/-davit-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Davit-Shahnazaryan-2)
+[![Linkedin](https://img.shields.io/badge/-serkan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-hasanoğlu-810a12b9/)
+[![Github](https://img.shields.io/badge/-serkan-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/SerkanHasanoglu)
+[![Orcid](https://img.shields.io/badge/-serkan-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-7018-0479)
+[![Researchgate](https://img.shields.io/badge/-serkan-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Serkan-Hasanoglu)
 
 <!-- Profile View Count and GitStats -->
 
