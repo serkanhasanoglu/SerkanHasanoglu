@@ -21,7 +21,6 @@ I am a PhD Candidate at IUSS
 </a>
 </p>
 
-<br>
 
 ### Recent publications
 
