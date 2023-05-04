@@ -1,5 +1,5 @@
 <!-- Your badges -->
-
+![](https://komarev.com/ghpvc/?username=SerkanHasanoglu&style=flat)
 [![Linkedin](https://img.shields.io/badge/-serkan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-hasanoğlu-810a12b9/)
 [![Github](https://img.shields.io/badge/-serkan-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/SerkanHasanoglu)
 [![Researchgate](https://img.shields.io/badge/-serkan-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Serkan-Hasanoglu)
@@ -27,6 +27,7 @@ I am a PhD Candidate at IUSS
 
 <!-- PUBLICATIONS:START -->
 - [A Practical Methodology to Estimate Site Fundamental Periods Based on the KiK‐net Borehole Velocity Profiles and Its Application to Istanbul](https://journals.sagepub.com/doi/10.1177/87552930211023523](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/112/5/2606/616246/A-Practical-Methodology-to-Estimate-Site?redirectedFrom=fulltext)
+
 
 <!-- PUBLICATIONS:END -->
 
