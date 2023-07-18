@@ -25,6 +25,7 @@ I am a PhD Candidate at IUSS
 
 <!-- PUBLICATIONS:START -->
 - [A Practical Methodology to Estimate Site Fundamental Periods Based on the KiK‐net Borehole Velocity Profiles and Its Application to Istanbul](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/112/5/2606/616246/A-Practical-Methodology-to-Estimate-Site?redirectedFrom=fulltext)
+- [Empirical correlations of constant ductility seismic input and hysteretic energies with conventional intensity measures](https://link.springer.com/article/10.1007/s10518-023-01722-x)
 
 
 <!-- PUBLICATIONS:END -->
