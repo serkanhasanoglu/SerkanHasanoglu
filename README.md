@@ -33,7 +33,3 @@ I am a PhD Candidate at IUSS
 ➡️ [more publications...](https://www.researchgate.net/profile/Serkan-Hasanoglu)
 
 
-
-### 🎁 Support
-<a href="http://paypal.me/serkanhasanoglu" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" alt="Paypal" style="height: auto !important;width: auto !important;" ></a>
-
