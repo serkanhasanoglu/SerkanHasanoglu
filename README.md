@@ -14,10 +14,6 @@ I am a PhD Candidate at IUSS
 - 📫 How to reach me: serkan.hasanoglu@iusspavia.it
 
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SerkanHasanoglu&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
-</a>
-</p>
 
 <br>
 
