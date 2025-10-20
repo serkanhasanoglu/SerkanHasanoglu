@@ -17,15 +17,7 @@ I am a PhD Candidate at IUSS
 
 <br>
 
-### Recent publications
-
-<!-- PUBLICATIONS:START -->
-- [Empirical correlations of constant ductility seismic input and hysteretic energies with conventional intensity measures](https://link.springer.com/article/10.1007/s10518-023-01722-x)
-- [A Practical Methodology to Estimate Site Fundamental Periods Based on the KiK‐net Borehole Velocity Profiles and Its Application to Istanbul](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/112/5/2606/616246/A-Practical-Methodology-to-Estimate-Site?redirectedFrom=fulltext)
-
-
-<!-- PUBLICATIONS:END -->
-
-➡️ [more publications...](https://www.researchgate.net/profile/Serkan-Hasanoglu)
+### Publications
+➡️ (https://www.researchgate.net/profile/Serkan-Hasanoglu)
 
 
