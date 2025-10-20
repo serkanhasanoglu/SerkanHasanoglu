@@ -12,12 +12,3 @@ I am a PhD Candidate at IUSS
 
 - 🔭 I’m currently working in the field of Earthquake Engineering and Risk reduction.
 - 📫 How to reach me: serkan.hasanoglu@iusspavia.it
-
-
-
-<br>
-
-### Publications
-➡️ (https://www.researchgate.net/profile/Serkan-Hasanoglu)
-
-
